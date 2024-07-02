@@ -3,7 +3,7 @@ layout: post
 title: "Committees"
 ---
 
-# Program Committee
+<!-- # Program Committee
 
 
  - [Thomas Bauer](), Fraunhofer IESE, Germany
@@ -32,7 +32,7 @@ title: "Committees"
  - [Carolyn Talcott](), SRI  International, USA
  - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
  - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
- - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
+ - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA -->
  
 
 <!--
@@ -49,12 +49,7 @@ title: "Committees"
 
  <!-- - [Name](...), Affiliation, Country -->
 
-# Organisers and Program Chairs
+# Steering Committee
 
- - [David Pereira](https://cister-labs.pt/people/david_pereira/), Polytechnic Institute of Porto, Portugal
- - [José Proença](https://jose.proenca.org/), University of Porto, Portugal
- - [Behrooz Sangchoolie](https://www.ri.se/en/person/behrooz-sangchoolie), RISE Research Institutes of Sweden, Borås, Sweden
+  - ...
 
-
-Edit the content of this page [here](https://github.com/verdi-workshop/2024/blob/main/committees/index.md).
-{: .editNote}

@@ -1,10 +1,9 @@
-title: VERDI 2024
+title: SmartRaCon 2024
 preposition: at
 description: >-
-  2nd International Workshop on Verification & Validation of Dependable Cyber-Physical Systems
-#  , June 2024, Porto, Portugal
+  to be held 23rd and 24th of October 2024 in San Sebastián, Spain
 baseurl: "/2024" # the subpath of your site, e.g. /blog
-url: "https://verdi-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://smartracon.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 #theme: jekyll-theme-conference
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference"
@@ -145,8 +144,10 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Invited Talks
-        color: danger
+      - name: Accepted Presentation
+        color: success
+      - name: Invited Presentation
+        color: info
       # - name: 'Session 1'
       #   color: success
       # - name: 'Session 2'
@@ -155,10 +156,10 @@ conference:
       #   color: dark
       # - name: 'Session 4'
       #   color: info
-      - name: Regular papers
-        color: success
-      - name: Short papers
-        color: warning
+      # - name: Regular papers
+      #   color: success
+      # - name: Short papers
+      #   color: warning
       # - name: Modelling & Verification
       #   color: success
       - name: Organisation

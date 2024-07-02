@@ -1,6 +1,6 @@
-# VERDI 2024
+# SmartRaCon 2024
 
-Website of the VERDI 2024 workshop.
+Website of the SmartRaCon 2024.
 
 The documentation for the theme is at
 https://github.com/DigitaleGesellschaft/jekyll-theme-conference
