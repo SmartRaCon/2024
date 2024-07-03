@@ -50,6 +50,11 @@ title: "Committees"
  <!-- - [Name](...), Affiliation, Country -->
 
 # Steering Committee
+  - ...
 
+# Technical Committee
+  - ...
+
+# Organising Committee
   - ...
 

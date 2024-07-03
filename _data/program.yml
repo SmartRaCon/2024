@@ -6,18 +6,18 @@ days:
     abbr: Mon
     date: 2024-10-23
     rooms:
-      - name: TBD
-        talks:
-          - name: 'TBD'
-            time_start: '09:00'
-            time_end: '17:00'
+      # - name: TBD
+      #   talks:
+      #     - name: 'TBD'
+      #       time_start: '09:00'
+      #       time_end: '17:00'
   - name: Thursday, 24 Oct
     abbr: Mon
     date: 2024-10-25
     rooms:
-      - name: TBD
-        talks:
-          - name: 'TBD'
-            time_start: '09:00'
-            time_end: '17:00'
+      # - name: TBD
+      #   talks:
+      #     - name: 'TBD'
+      #       time_start: '09:00'
+      #       time_end: '17:00'
 

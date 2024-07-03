@@ -3,10 +3,12 @@ layout: program
 ---
 
 <ul class="nav justify-content-center mb-3 btn-group" id="day-list" role="tablist">
-        <li class="nav-item" role="presentation">
-          <a class="nav-link btn btn-outline-secondary active" id="tab-tue" data-toggle="tab" data-date="2023-06-27" href="#tue" role="tab" aria-controls="tue" aria-selected="true">6th SmartRaCon</a>
-        </li>
-    </ul>
+    <li class="nav-item" role="presentation">
+      <a class="nav-link btn btn-outline-secondary active" id="tab-tue" data-toggle="tab" data-date="2024-10-23" href="#tue" role="tab" aria-controls="tue" aria-selected="true">6th SmartRaCon</a>
+    </li>
+</ul>
+
+To be published soon...
 
 <!-- The main categories (or tracks) of the different talks as well as their coloring can be adapted in the `_config.yml` file under `conference.talks.main_categories`. See also the [Talk Settings](https://github.com/DigitaleGesellschaft/jekyll-theme-conference/#talk-settings-main-categories) section of the theme's README file. -->
 

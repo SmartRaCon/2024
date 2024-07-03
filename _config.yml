@@ -1,7 +1,7 @@
 title: SmartRaCon 2024
 preposition: at
 description: >-
-  to be held 23rd and 24th of October 2024 in San Sebastián, Spain
+  23rd and 24th of October 2024 in San Sebastián, Spain
 baseurl: "/2024" # the subpath of your site, e.g. /blog
 url: "https://smartracon.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -79,6 +79,8 @@ conference:
         relative_url: /location/
       - name: Committees
         relative_url: /committees/
+      - name: REGISTRATION
+        absolute_url: 'https://resources.ceit.es/SRC6SS/'
 
   # Link Preview for Sharing
   link_preview:
