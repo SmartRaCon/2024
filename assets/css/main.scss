@@ -9,6 +9,10 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
   display: none !important;
 }
 
+.jumbotron {
+  background-color: #f6f5f7;
+}
+
 .alert-hidden {
   color: #0b2f13;
   background-color: #daf5ff;
@@ -33,7 +37,11 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 
 
 a {
-  color: #1c9300ff;
+  color: rgb(117, 9, 167);
+}
+
+a:hover {
+  color: rgb(34, 0, 50);
 }
 
 .mb-2, .my-2 {

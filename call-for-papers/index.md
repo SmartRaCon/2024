@@ -46,10 +46,10 @@ Based on the reviewers' and the awards-committee's evaluation Best Contribution 
 
 # Posters
 
-Poster zone at the venue and Poster sessions are also scheduled. Apart from Poster displaying during all the conference,  authors can explain briefly their research advances / research facilities and discuss with the conference attendees during coffee breaks.
+Poster zone at the venue and Poster sessions are also scheduled. Apart from Poster displaying during all the conference, authors can explain briefly their research advances / research facilities and discuss with the conference attendees during coffee breaks.
 
 
-To submit your Poster, please contact jmendizabal@ceit.es with the Poster tentative title and content summary, which shall include Europe’s Rail project results and/or information about the Europe’s Rail partner.
+To submit your Poster, please contact [jmendizabal@ceit.es](mailto:jmendizabal@ceit.es) with the Poster tentative title and content summary, which shall include Europe’s Rail project results and/or information about the Europe’s Rail partner.
 
 # Important Dates
 
