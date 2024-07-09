@@ -53,7 +53,7 @@ To submit your Poster, please contact [jmendizabal@ceit.es](mailto:jmendizabal@c
 
 # Important Dates
 
-  - Deadline for submission: June 30th, 2024
+  - Deadline for submission (extended): ~~June 30th, 2024~~ July 12th, 2024
   - Notification of acceptance: July 30th, 2024  
   - Deadline for final paper submission: August 30th, 2024
   - Registration opens: September 1st, 2024
