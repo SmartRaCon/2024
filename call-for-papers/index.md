@@ -11,7 +11,7 @@ It is our pleasure to invite you to SRC6SS 2024. The scientific seminar is focus
 
 # Call for Papers
 
-We encourage submission of extended abstracts (see template attached and AU_TS_SRC5SS example).
+We encourage submission of extended abstracts (see [template](./extended%20abstract%20template.docx) and [AU_TS_SRC5SS](./AU_TS_SRC5SS_Proceedings_2023-05-25_v8_one%20abstract.pdf) example).
 All contributions shall include results obtained from the Europe’s Rail projects:
 
   - FP1-MOTIONAL
@@ -53,7 +53,7 @@ To submit your Poster, please contact [jmendizabal@ceit.es](mailto:jmendizabal@c
 
 # Important Dates
 
-  - Deadline for submission (extended): ~~June 30th, 2024~~ July 12th, 2024
+  - Deadline for submission (extended): ~~June 30th, 2024~~ July 14th, 2024
   - Notification of acceptance: July 30th, 2024  
   - Deadline for final paper submission: August 30th, 2024
   - Registration opens: September 1st, 2024
