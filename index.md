@@ -6,7 +6,7 @@ title: 6th SmartRaCon Scientific Seminar
 
 ## Important dates
   - Deadline for submission (extended): ~~June 30th, 2024~~ July 14th, 2024
-  - Notification of acceptance: July 30th, 2024  
+  - Notification of acceptance: ~~July 30th, 2024~~  August 6th, 2024
   - Deadline for final paper submission: August 30th, 2024
   - Registration opens: September 1st, 2024
 
