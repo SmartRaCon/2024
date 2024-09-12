@@ -5,10 +5,10 @@ title: 6th SmartRaCon Scientific Seminar
 
 
 ## Important dates
-  - Deadline for submission (extended): ~~June 30th, 2024~~ July 14th, 2024
-  - Notification of acceptance: ~~July 30th, 2024~~  August 6th, 2024
-  - Deadline for final paper submission: August 30th, 2024
-  - Registration opens: September 1st, 2024
+  - ~~Deadline for submission (extended): July 14th, 2024~~
+  - ~~Notification of acceptance: August 6th, 2024~~
+  - ~~Deadline for final paper submission: August 30th, 2024~~
+  - ~~Registration opens: September 1st, 2024~~ **Registration open!**
 
   [Register here.](https://resources.ceit.es/SRC6SS/)
 
@@ -31,11 +31,14 @@ Now, railway related research and innovation is carried out at European level wi
 {:style="text-align:center;"}
 [![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}
 [![logo](assets/img/logo-eurail.png "logoSmall")](https://rail-research.europa.eu/){:target="blank"}
+
+{:style="text-align:center;"}
 [![logo](assets/img/logo-DLR.png "logoSmall")](https://www.dlr.de/){:target="blank"}
 [![logo](assets/img/logo-ceit.png "logoSmall")](https://www.ceit.ed/){:target="blank"}
 [![logo](assets/img/logo-RISE.png "logoSmall")](https://www.ri.se/){:target="blank"}
 [![logo](assets/img/logo-Trafikverket.png "logoSmall")](https://www.trafikverket.se/){:target="blank"}
 [![logo](assets/img/logo-SINTEF.png "logoSmall")](https://www.sintef.no/){:target="blank"}
+[![logo](assets/img/logo-UGE.png "logoSmall")](https://www.univ-gustave-eiffel.fr/en/){:target="blank"}
 
 {:class="thanks"}
 SmartRaCon is partly supported by funding from the European Union’s Horizon Europe research and innovation programme through the Europe's Rail Joint Undertaking.
