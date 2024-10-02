@@ -33,7 +33,6 @@ In the framework of Europe’s Rail, SmartRaCon is composed by the following par
 - Gorka de Miguel, Ceit Research Center, Spain
 - Ramana Reddy Avula, RISE Research Institutes of Sweden, Sweden
 - Paul Unterhuber, German Aerospace Center, Germany
-- Paul Wilbois, SNCF, France
 - Paul Zabalegui, Ceit Research Center, Spain
 
 # Organising Committee
