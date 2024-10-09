@@ -382,7 +382,7 @@ layout: default
             <td class="column0 style62 n">11:00</td>
             <td class="column1 style73 null"></td>
             <td class="column2 style35 null"></td>
-            <td class="column3 style27 s">Questions</td>
+            <td class="column3 style27 s"></td>
             <td class="column4 style27 null"></td>
             <td class="column5 style95 null"></td>
           </tr>
@@ -471,7 +471,7 @@ layout: default
             <td class="column0 style62 n">12:50</td>
             <td class="column1 style51 null"></td>
             <td class="column2 style34 null"></td>
-            <td class="column3 style27 s">Questions</td>
+            <td class="column3 style27 s"></td>
             <td class="column4 style27 null"></td>
             <td class="column5 style30 null"></td>
           </tr>
@@ -495,7 +495,7 @@ layout: default
             <td class="column0 style62 n">13:20</td>
             <td class="column1 style73 null"></td>
             <td class="column2 style35 null"></td>
-            <td class="column3 style27 s">Questions</td>
+            <td class="column3 style27 s"></td>
             <td class="column4 style27 null"></td>
             <td class="column5 style30 null"></td>
           </tr>
@@ -833,7 +833,7 @@ layout: default
             <td class="column0 style62 n">10:20</td>
             <td class="column1 style51 null"></td>
             <td class="column2 style34 null"></td>
-            <td class="column3 style27 s">Questions</td>
+            <td class="column3 style27 s"></td>
             <td class="column4 style27 null"></td>
             <td class="column5 style30 null"></td>
           </tr>
@@ -865,7 +865,7 @@ layout: default
             <td class="column0 style62 n">11:00</td>
             <td class="column1 style73 null"></td>
             <td class="column2 style35 null"></td>
-            <td class="column3 style27 s">Questions</td>
+            <td class="column3 style27 s"></td>
             <td class="column4 style27 null"></td>
             <td class="column5 style30 null"></td>
           </tr>
@@ -1112,7 +1112,7 @@ layout: default
             <td class="column0 style62 n">16:00</td>
             <td class="column1 style73 null"></td>
             <td class="column2 style35 null"></td>
-            <td class="column3 style27 s">Questions</td>
+            <td class="column3 style27 s"></td>
             <td class="column4 style27 null"></td>
             <td class="column5 style30 null"></td>
           </tr>
