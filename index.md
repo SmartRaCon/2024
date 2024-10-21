@@ -38,7 +38,10 @@ Now, railway related research and innovation is carried out at European level wi
 [![logo](assets/img/logo-RISE.png "logoSmall")](https://www.ri.se/){:target="blank"}
 [![logo](assets/img/logo-Trafikverket.png "logoSmall")](https://www.trafikverket.se/){:target="blank"}
 [![logo](assets/img/logo-SINTEF.png "logoSmall")](https://www.sintef.no/){:target="blank"}
+
+{:style="text-align:center;"}
 [![logo](assets/img/logo-UGE.png "logoSmall")](https://www.univ-gustave-eiffel.fr/en/){:target="blank"}
+[![logo](assets/img/logo-IBDiM.png "logoSmall")](https://www.ibdim.edu.pl/en/){:target="blank"}
 
 {:class="thanks"}
 SmartRaCon is partly supported by funding from the European Union’s Horizon Europe research and innovation programme through the Europe's Rail Joint Undertaking.
