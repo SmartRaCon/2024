@@ -3,6 +3,7 @@ layout: home
 title: 6th SmartRaCon Scientific Seminar
 ---
 
+**Proceedings available:** [6th SmartRaCon Scientific Seminar - Proceedings, 2024](https://www.ceit.es/documents/24233193/41324655/SRC6SS_Proceedings_2024.pdf)
 
 ## Important dates
   - ~~Deadline for submission (extended): July 14th, 2024~~

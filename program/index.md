@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Proceedings available:** [6th SmartRaCon Scientific Seminar - Proceedings, 2024](https://www.ceit.es/documents/24233193/41324655/SRC6SS_Proceedings_2024.pdf)
+
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="1247" style="width:935.05pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-left-alt:5.4pt;mso-padding-right-alt:5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt">
