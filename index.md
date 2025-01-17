@@ -2,6 +2,16 @@
 layout: home
 title: 6th SmartRaCon Scientific Seminar
 ---
+<div class="embed-container" style="text-align:center;">
+  <iframe
+      src="https://www.youtube.com/embed/uINcmgcyGc8?autoplay=1&mute=1"
+      width="960"
+      height="540"
+      frameborder="0"
+      allowfullscreen="true"
+      allow="autoplay; encrypted-media">
+  </iframe>
+</div>
 
 **Proceedings available:** [6th SmartRaCon Scientific Seminar - Proceedings, 2024](https://www.ceit.es/documents/24233193/41324655/SRC6SS_Proceedings_2024.pdf)
 
