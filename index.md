@@ -19,9 +19,9 @@ title: 6th SmartRaCon Scientific Seminar
   - ~~Deadline for submission (extended): July 14th, 2024~~
   - ~~Notification of acceptance: August 6th, 2024~~
   - ~~Deadline for final paper submission: August 30th, 2024~~
-  - ~~Registration opens: September 1st, 2024~~ **Registration open!**
+  - ~~Registration opens: September 1st, 2024~~ ~~**Registration open!**~~
 
-  [Register here.](https://resources.ceit.es/SRC6SS/)
+  ~~[Register here.]()~~
 
 ## About SmartRaCon
 In the last years, railway related research and innovation is carried out at European level within the framework of the Shift2Rail Joint Undertaking. The work related to control, command and signalling for automation and safety purposes is carried out in the projects X2Rail-1 to X2Rail-5, among others. The associate members of Shift2Rail part of "Smart Rail Control - SmartRaCon" Railenium (FR), GMV-NSL (UK), CEIT (ES) and DLR (DE) set themselves the goal of hosting an annual scientific seminar on one of the X2Rail projects. After the first one in 2019 in Villeneuve d'Ascq was hosted as a face-to-face event by Railenium, the second one in 2020 could be executed very successfully as a digital event by CEIT as well as the third in 2021 by DLR. In 2022, the fourth edition followed, as hybrid event in San Sebastian hosted by CEIT. And finally in 2023 the fifth edition was hosted by GMV and DLR together as hybrid event in Berlin-Adlershof, where the focus was on the X2RAIL-5 and TAURO projects.
