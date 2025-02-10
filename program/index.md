@@ -240,8 +240,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >New Generation
-  Train Communication Network</span></p>
+  ><a href="presentations/1.1 PhD 1 SmartRaCon Scientific Seminar 2024.pdf">New Generation
+  Train Communication Network</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -346,8 +346,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >NG-TCN: Towards Network
-  Slicing in on-board Wireless Train communication networks</span></p>
+  ><a href="presentations/1.2 PhD 2 SmartRaCon Scientific Seminar 2024.pdf">NG-TCN: Towards Network
+  Slicing in on-board Wireless Train communication networks</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -452,8 +452,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Overview of Train-Trackside
-  Communication Systems and CEIT’s Multi-connectivity Platform Development</span></p>
+  ><a href="presentations/1.3 PhD 6 SmartRaCon Scientific Seminar 2024.pdf">Overview of Train-Trackside
+  Communication Systems and CEIT’s Multi-connectivity Platform Development</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -625,8 +625,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Health of railway
-  infrastructure based on AI</span></p>
+  ><a href="presentations/2.1 PhD 4 SmartRaCon Scientific Seminar 2024.pdf">Health of railway
+  infrastructure based on AI</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -731,9 +731,9 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Rail Fasteners
+  ><a href="presentations/2.2 PhD 3 SmartRaCon Scientific Seminar 2024.pdf">Rail Fasteners
   Looseness Detection by Analysing Real and Synthetic Axle-Box Acceleration
-  Data: A Dual Approach</span></p>
+  Data: A Dual Approach</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -838,8 +838,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Driving the Future of
-  Automatic Train Operation: A Focus on Intelligent Driving Algorithms</span></p>
+  ><a href="presentations/2.3 PhD 12 SmartRaCon Scientific Seminar 2024.pdf">Driving the Future of
+  Automatic Train Operation: A Focus on Intelligent Driving Algorithms</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -941,8 +941,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Map-matching for train
-  localisation: from the digital map to the map-matching techniques</span></p>
+  ><a href="presentations/2.4 PhD 5 SmartRaCon Scientific Seminar 2024.pdf">Map-matching for train
+  localisation: from the digital map to the map-matching techniques</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -1383,7 +1383,7 @@ layout: default
   border-bottom:none;border-right:solid windowtext 1.0pt;background:#A6A6A6;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  >Keynote SmartRaCon</span></b></p>
+  ><a href="presentations/3.2 Keynote 1 SmartRaCon.pdf">Keynote SmartRaCon</a></span></b></p>
   </td>
   <td width=132 style='width:99.25pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:none;border-right:solid windowtext 1.0pt;
@@ -1418,7 +1418,7 @@ layout: default
   border-bottom:none;background:#A6A6A6;padding:0cm 5.4pt 0cm 5.4pt;height:
   14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  >Keynote&nbsp;&nbsp;MOTIONAL</span></b></p>
+  ><a href="presentations/3.3 Keynote 2 - 2024-10-24_FP1-MOTIONAL_SmartRaCon.pdf">Keynote MOTIONAL</a></span></b></p>
   </td>
   <td width=132 style='width:99.25pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:none;border-right:solid windowtext 1.0pt;
@@ -1514,9 +1514,9 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >EU-RAIL FP1 / Multimodal
+  ><a href="presentations/4.1 Pro 14 SmartRaCon Scientific Seminar 2024.pdf">EU-RAIL FP1 / Multimodal
   Integration - B2B Financial Services as a Key Asset for Rail Integration with
-  Other Mobility Modes</span></p>
+  Other Mobility Modes</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -1587,8 +1587,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Planning Problems
-  in a Combined Yard and Intermodal Rail Freight Terminal</span></p>
+  ><a href="presentations/4.2 Pro 1 SmartRaCon 6 Scientific Seminar 2024.pdf">Planning Problems
+  in a Combined Yard and Intermodal Rail Freight Terminal</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -1659,8 +1659,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >EURAIL – FA6 FutuRe
-  Project Innovative solutions for G2 regional lines</span></p>
+  ><a href="presentations/4.3 Pro 3 20241023 ERJU Wabtec G2.pdf">EURAIL – FA6 FutuRe
+  Project Innovative solutions for G2 regional lines</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -1732,8 +1732,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Demand-driven
-  Optimization of Public Transit</span></p>
+  ><a href="presentations/4.4 Pro 10 SmartRaCon Scientific Seminar 2024.pdf">Demand-driven
+  Optimization of Public Transit</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -1836,8 +1836,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Cybersecurity Risk
-  Assessment of Virtually Coupled Train Sets</span></p>
+  ><a href="posters/1.1 Poster - Cybersecurity - SmartRaCon.pdf">Cybersecurity Risk
+  Assessment of Virtually Coupled Train Sets</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -1870,8 +1870,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >What is the code of
-  this wagon?</span></p>
+  ><a href="posters/1.4 poster_SRC6SS_Melissa_Tijink.pdf">What is the code of
+  this wagon?</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -1904,9 +1904,9 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Enhancing
+  ><a href="posters/1.5 Poster_SRC6SS_Seddik_Reguieg.pdf">Enhancing
   Pedestrian Safety in Multimodal Transport through Pod-Based Transfers: An
-  Ontological Approach</span></p>
+  Ontological Approach</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -1939,8 +1939,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >ESEP4Freight:
-  Initial Approach to Smart Contract Generalization in Freight Logistics</span></p>
+  ><a href="posters/1.2 Poster 4_SRC6SS_FRosell.pdf">ESEP4Freight:
+  Initial Approach to Smart Contract Generalization in Freight Logistics</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -2008,8 +2008,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Repair of wheel and
-  rails by additive manufacturing</span></p>
+  ><a href="posters/1.3 Poster_SRC6SS_ItziarRuizMoraza.pdf">Repair of wheel and
+  rails by additive manufacturing</a></span></p>
   </td>
  </tr>
  <tr style='height:15.0pt'>
@@ -2175,7 +2175,7 @@ layout: default
   border-bottom:none;border-right:solid windowtext 1.0pt;background:#A6A6A6;
   padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  >MADE4RAIL KeyNote</span></b></p>
+  ><a href="presentations/5.0 Pro5.0 Keynote MADE4RAIL.pdf">MADE4RAIL KeyNote</a></span></b></p>
   </td>
   <td width=132 style='width:99.25pt;border:none;border-right:solid windowtext 1.0pt;
   background:#A6A6A6;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
@@ -2274,8 +2274,8 @@ layout: default
   border-left:none;border-bottom:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >A framework for
-  GNSS-based solutions performance analysis in an ERTMS context</span></p>
+  ><a href="presentations/5.1 Pro 10 SmartRaCon 6 Scientific Seminar 2024.pdf">A framework for
+  GNSS-based solutions performance analysis in an ERTMS context</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -2346,9 +2346,9 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Digital Twin
+  ><a href="presentations/5.2 Pro 2 SmartRaCon 6 2024.pdf">Digital Twin
   Development for Test Site: Foundation for Innovative Cost-Effective Train
-  Positioning Alignment</span></p>
+  Positioning Alignment</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -2419,8 +2419,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Cybersecurity Risk
-  Assessment of Virtually Coupled Train Sets</span></p>
+  ><a href="presentations/5.3 Pro 6 SmartRaCon 6 Scientific Seminar 2024.pdf">Cybersecurity Risk
+  Assessment of Virtually Coupled Train Sets</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -2488,9 +2488,9 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Development of the
+  ><a href="presentations/5.4 Pro SmartRacon 6 Scientific Seminar 2024.pdf">Development of the
   Preliminary Stages for ATO lab prototype in sight of a future inspection
-  vehicle</span></p>
+  vehicle</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -2561,9 +2561,9 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Increase Safety in
+  ><a href="presentations/5.5 Pro 11 SmartRaCon 6 Scientific Seminar 2024.pdf">Increase Safety in
   Regional Networks with Decentralization – The Autonomous Route Setting
-  Approach</span></p>
+  Approach</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -3380,8 +3380,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Use cases and
-  conceptual system specification for Self-Propelled Wagon</span></p>
+  ><a href="presentations/7.1 Pro 5 SmartRaCon 6 Scientific Seminar 2024.pdf">Use cases and
+  conceptual system specification for Self-Propelled Wagon</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -3452,8 +3452,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >Preliminary
-  concepts and specifications for a self-propelled wagon</span></p>
+  ><a href="presentations/7.2 Pro 7 SmartRaCon 6 Scientific Seminar 2024.pdf">Preliminary
+  concepts and specifications for a self-propelled wagon</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
@@ -3597,8 +3597,8 @@ layout: default
   <td width=529 style='width:14.0cm;border:none;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  >An Innovative Non-Destructive
-  Method using Ka Band Microwaves for Railway Inspection</span></p>
+  ><a href="presentations/7.4 Pro 8 SmartRaCon 6 Scientific Seminar 2024.pdf">An Innovative Non-Destructive
+  Method using Ka Band Microwaves for Railway Inspection</a></span></p>
   </td>
  </tr>
  <tr style='height:14.5pt'>
